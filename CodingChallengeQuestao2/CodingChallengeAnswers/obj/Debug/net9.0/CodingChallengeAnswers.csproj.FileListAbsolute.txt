@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Testes Tecnicos\Target Sistemas\CodingChallenge\CodingChallengeAnswers\CodingChallengeAnswers\bin\Debug\net9.0\CodingChallengeAnswers.exe
+C:\Users\DELL\Desktop\Testes Tecnicos\Target Sistemas\CodingChallenge\CodingChallengeAnswers\CodingChallengeAnswers\bin\Debug\net9.0\CodingChallengeAnswers.deps.json
+C:\Users\DELL\Desktop\Testes Tecnicos\Target Sistemas\CodingChallenge\CodingChallengeAnswers\CodingChallengeAnswers\bin\Debug\net9.0\CodingChallengeAnswers.runtimeconfig.json
+C:\Users\DELL\Desktop\Testes Tecnicos\Target Sistemas\CodingChallenge\CodingChallengeAnswers\CodingChallengeAnswers\bin\Debug\net9.0\CodingChallengeAnswers.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Target Sistemas\CodingChallenge\CodingChallengeAnswers\CodingChallengeAnswers\bin\Debug\net9.0\CodingChallengeAnswers.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Target Sistemas\CodingChallenge\CodingChallengeAnswers\CodingChallengeAnswers\obj\Debug\net9.0\CodingChallengeAnswers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Testes Tecnicos\Target Sistemas\CodingChallenge\CodingChallengeAnswers\CodingChallengeAnswers\obj\Debug\net9.0\CodingChallengeAnswers.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\Target Sistemas\CodingChallenge\CodingChallengeAnswers\CodingChallengeAnswers\obj\Debug\net9.0\CodingChallengeAnswers.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Testes Tecnicos\Target Sistemas\CodingChallenge\CodingChallengeAnswers\CodingChallengeAnswers\obj\Debug\net9.0\CodingChallengeAnswers.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\Target Sistemas\CodingChallenge\CodingChallengeAnswers\CodingChallengeAnswers\obj\Debug\net9.0\CodingChallengeAnswers.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Target Sistemas\CodingChallenge\CodingChallengeAnswers\CodingChallengeAnswers\obj\Debug\net9.0\refint\CodingChallengeAnswers.dll
+C:\Users\DELL\Desktop\Testes Tecnicos\Target Sistemas\CodingChallenge\CodingChallengeAnswers\CodingChallengeAnswers\obj\Debug\net9.0\CodingChallengeAnswers.pdb
+C:\Users\DELL\Desktop\Testes Tecnicos\Target Sistemas\CodingChallenge\CodingChallengeAnswers\CodingChallengeAnswers\obj\Debug\net9.0\CodingChallengeAnswers.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Testes Tecnicos\Target Sistemas\CodingChallenge\CodingChallengeAnswers\CodingChallengeAnswers\obj\Debug\net9.0\ref\CodingChallengeAnswers.dll
